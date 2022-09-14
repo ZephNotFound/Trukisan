@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
-    <style name="Theme.Trukisan" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.Trukisan" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         
-        <item name="colorPrimary">@color/purple_200</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
-        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorPrimary">@color/trugreen</item>
+        <item name="colorPrimaryVariant">@color/trugreen</item>
+        <item name="colorOnPrimary">@color/trugreen</item>
         
-        <item name="colorSecondary">@color/teal_200</item>
-        <item name="colorSecondaryVariant">@color/teal_200</item>
-        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSecondary">@color/trugreen</item>
+        <item name="colorSecondaryVariant">@color/trugreen</item>
+        <item name="colorOnSecondary">@color/trugreen</item>
         
         <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
         

@@ -1,10 +1,10 @@
 package com.pixelfly.trukisan
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.WindowManager
 import android.os.Handler
+import android.view.WindowManager
+import androidx.appcompat.app.AppCompatActivity
 
 @Suppress("DEPRECATION")
 class SplashScreen : AppCompatActivity() {
@@ -12,6 +12,7 @@ class SplashScreen : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash_screen)
 
+        //supportActionBar?.hide()
         window.setFlags(
             WindowManager.LayoutParams.FLAG_FULLSCREEN,
             WindowManager.LayoutParams.FLAG_FULLSCREEN
