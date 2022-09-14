@@ -16,4 +16,17 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/logo" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/imageView"
+        android:layout_gravity="center"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/splash"
+        tools:layout_editor_absoluteX="0dp" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

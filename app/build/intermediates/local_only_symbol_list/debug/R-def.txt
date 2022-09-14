@@ -34,6 +34,7 @@ menu menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation nav_graph
+raw splash
 string account
 string app_name
 string hello_blank_fragment

@@ -14,6 +14,7 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/d6b8c7076041e2db19698ad921c991ec/transformed/viewbinding-7.2.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/25a916626fc0b902d98e6198546ba6bf/transformed/navigation-ui-ktx-2.5.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/25c24e33f4f3c286cc06f95c082d6bd0/transformed/navigation-ui-2.5.2-api.jar</arg>
@@ -78,6 +79,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f14901d52ec9f1b23bf92b25a4355b02/transformed/annotation-experimental-1.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/af7c5d9d9cdb958f386994197675172a/transformed/constraintlayout-2.1.4-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5ec0807d4e15b16a76181d8d7c88f1f5/transformed/SmoothBottomBar-1.7.9-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/0da0386202fe592867d63d26f3fc0231/transformed/lottie-5.0.3-api.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-32/android.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
               </args>
@@ -197,5 +199,6 @@
     <orderEntry type="library" name="Gradle: androidx.navigation:navigation-common-ktx:2.5.2@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.navigation:navigation-ui-ktx:2.5.2@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.navigation:navigation-ui:2.5.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.airbnb.android:lottie:5.0.3@aar" level="project" />
   </component>
 </module>
