@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-45:\\layout\\fragment_shop.xml",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\layout\\fragment_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-45:\\layout\\fragment_account.xml",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-45:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.pixelfly.trukisan.app-mergeDebugResources-45:/layout/fragment_home.xml",
+        "source": "com.pixelfly.trukisan.app-main-48:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-45:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.pixelfly.trukisan.app-mergeDebugResources-45:/layout/fragment_shop.xml",
+        "source": "com.pixelfly.trukisan.app-main-48:/layout/fragment_shop.xml"
+    },
+    {
+        "merged": "com.pixelfly.trukisan.app-mergeDebugResources-45:/layout/fragment_account.xml",
+        "source": "com.pixelfly.trukisan.app-main-48:/layout/fragment_account.xml"
+    }
+]

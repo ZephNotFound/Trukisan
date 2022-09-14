@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\drawable_ic_baseline_shop.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\drawable\\ic_baseline_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\layout_fragment_shop.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\layout\\fragment_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-pngs-41:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-46:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-48:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.pixelfly.trukisan.app-merged_res-46:/menu_menu.xml.flat",
+        "source": "com.pixelfly.trukisan.app-main-48:/menu/menu.xml"
+    }
+]
