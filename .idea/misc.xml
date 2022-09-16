@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project/Trukisan/app/src/main/res/drawable/ic_baseline_shop.xml" value="0.13" />
         <entry key="..\:/Project/Trukisan/app/src/main/res/layout/activity_main.xml" value="0.203125" />
         <entry key="..\:/Project/Trukisan/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
         <entry key="..\:/Project/Trukisan/app/src/main/res/layout/fragment_account.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/Trukisan/app/src/main/res/layout/fragment_home.xml" value="0.25" />
         <entry key="..\:/Project/Trukisan/app/src/main/res/layout/fragment_shop.xml" value="0.20416666666666666" />
         <entry key="..\:/Project/Trukisan/app/src/main/res/menu/menu.xml" value="0.203125" />
       </map>

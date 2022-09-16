@@ -2519,6 +2519,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable actionbarlogo
 drawable avd_hide_password
 drawable avd_show_password
 drawable btn_checkbox_checked_mtrl
@@ -2537,6 +2538,7 @@ drawable design_snackbar_background
 drawable ic_baseline_home_24
 drawable ic_baseline_person_24
 drawable ic_baseline_shop
+drawable ic_baseline_shopping_cart_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -3070,6 +3072,7 @@ id title
 id titleDividerNoCustom
 id title_template
 id toggle
+id toolbar
 id top
 id topPanel
 id top_left

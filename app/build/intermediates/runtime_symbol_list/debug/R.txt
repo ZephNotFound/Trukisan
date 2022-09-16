@@ -2518,6 +2518,7 @@ int drawable abc_textfield_search_activated_mtrl_alpha 0x7f070052
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f070053
 int drawable abc_textfield_search_material 0x7f070054
 int drawable abc_vector_test 0x7f070055
+int drawable actionbarlogo 0x7f0700a1
 int drawable avd_hide_password 0x7f070056
 int drawable avd_show_password 0x7f070057
 int drawable btn_checkbox_checked_mtrl 0x7f070058
@@ -2536,6 +2537,7 @@ int drawable design_snackbar_background 0x7f070064
 int drawable ic_baseline_home_24 0x7f070065
 int drawable ic_baseline_person_24 0x7f070066
 int drawable ic_baseline_shop 0x7f070067
+int drawable ic_baseline_shopping_cart_24 0x7f0700a2
 int drawable ic_clock_black_24dp 0x7f070068
 int drawable ic_keyboard_black_24dp 0x7f070069
 int drawable ic_launcher_background 0x7f07006a
@@ -3069,6 +3071,7 @@ int id title 0x7f0801d3
 int id titleDividerNoCustom 0x7f0801d4
 int id title_template 0x7f0801d5
 int id toggle 0x7f0801d6
+int id toolbar 0x7f080201
 int id top 0x7f0801d7
 int id topPanel 0x7f0801d8
 int id top_left 0x7f0801d9

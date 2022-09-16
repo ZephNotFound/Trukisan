@@ -10,9 +10,11 @@ color teal_200
 color teal_700
 color trugreen
 color white
+drawable actionbarlogo
 drawable ic_baseline_home_24
 drawable ic_baseline_person_24
 drawable ic_baseline_shop
+drawable ic_baseline_shopping_cart_24
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable logo
@@ -25,6 +27,7 @@ id main_fragment
 id nav_graph
 id second_fragment
 id third_fragment
+id toolbar
 layout activity_main
 layout activity_splash_screen
 layout fragment_account

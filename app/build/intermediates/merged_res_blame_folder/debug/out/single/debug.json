@@ -32,8 +32,16 @@
         "source": "com.pixelfly.trukisan.app-main-49:/drawable/ic_launcher_background.xml"
     },
     {
+        "merged": "com.pixelfly.trukisan.app-merged_res-47:/drawable_ic_baseline_shopping_cart_24.xml.flat",
+        "source": "com.pixelfly.trukisan.app-main-49:/drawable/ic_baseline_shopping_cart_24.xml"
+    },
+    {
         "merged": "com.pixelfly.trukisan.app-merged_res-47:/layout_activity_splash_screen.xml.flat",
         "source": "com.pixelfly.trukisan.app-main-49:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.pixelfly.trukisan.app-merged_res-47:/drawable-v24_actionbarlogo.png.flat",
+        "source": "com.pixelfly.trukisan.app-main-49:/drawable-v24/actionbarlogo.png"
     },
     {
         "merged": "com.pixelfly.trukisan.app-merged_res-47:/navigation_nav_graph.xml.flat",
