@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Pebbles_purple">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="276dp"
+                android:layout_height="294dp"
+                android:layout_marginStart="7dp"
+                android:layout_marginTop="32dp"
+                android:layout_marginEnd="7dp"
+                android:contentDescription=".."
+                app:layout_constraintEnd_toStartOf="@+id/button2"
+                app:layout_constraintStart_toEndOf="@+id/button1"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/tkb1" />
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:layout_marginStart="2dp"
+                android:layout_marginTop="160dp"
+                android:layout_marginEnd="4dp"
+                android:backgroundTint="@color/white"
+                app:icon="@android:drawable/ic_media_previous"
+                app:iconTint="#150303"
+                app:layout_constraintEnd_toStartOf="@+id/imageView2"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:rippleColor="@color/white" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="55dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:layout_marginTop="164dp"
+                android:layout_marginEnd="2dp"
+                android:backgroundTint="@color/white"
+                app:icon="@android:drawable/ic_media_next"
+                app:iconTint="#0E0101"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/imageView2"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <LinearLayout
+                android:id="@+id/linearLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_editor_absoluteX="16dp">
+
+            </LinearLayout>
+
+            <HorizontalScrollView
+                android:id="@+id/horizontalScrollView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="325dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/tkbb1"
+                        android:layout_width="150dp"
+                        android:layout_height="125dp"
+                        app:srcCompat="@drawable/tkb1">
+
+                    </ImageView>
+
+                    <ImageView
+                        android:id="@+id/tkbb2"
+                        android:layout_width="150dp"
+                        android:layout_height="125dp"
+                        app:srcCompat="@drawable/tkb2">
+
+                    </ImageView>
+
+                    <ImageView
+                        android:id="@+id/tkbb3"
+                        android:layout_width="150dp"
+                        android:layout_height="125dp"
+                        app:srcCompat="@drawable/tkb3">
+
+                    </ImageView>
+
+                    <ImageView
+                        android:id="@+id/tkbb4"
+                        android:layout_width="150dp"
+                        android:layout_height="125dp"
+                        app:srcCompat="@drawable/tkb4">
+
+                    </ImageView>
+
+
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="484dp"
+                android:layout_marginEnd="317dp"
+                android:text="Home/Pebbles"
+                android:textColor="@color/black"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="520dp"
+                android:layout_marginEnd="317dp"
+                android:text="Pebbles - Blue"
+                android:textColor="@color/black"
+                android:textSize="28sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="575dp"
+                android:layout_marginEnd="317dp"
+                android:text="₹119.00"
+                android:textColor="@android:color/holo_green_dark"
+                android:textSize="26sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="630dp"
+                android:text="  •	 Made of highest quality handpicked stones"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="660dp"
+                android:text="  •	 Perfect colors and sizes"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="690dp"
+                android:text="  •	 Suitable for indoor and outdoor décor."
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="720dp"
+                android:text="  •	 Can be used for decorating pots, plants, planters, aquariums and  terrariums"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="760dp"
+                android:text="  •	 Suitable for fountains and water bodies"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="800dp"
+                android:text="  Select:"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <CheckBox
+                android:id="@+id/checkBox1"
+                android:layout_width="0dp"
+                android:layout_height="24dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="820dp"
+                android:text="500g"
+                app:layout_constraintEnd_toEndOf="@+id/checkBox4"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <CheckBox
+                android:id="@+id/checkBox2"
+                android:layout_width="0dp"
+                android:layout_height="24dp"
+                android:layout_marginStart="70dp"
+                android:layout_marginTop="820dp"
+                android:layout_marginEnd="199dp"
+                android:text="1kg"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <CheckBox
+                android:id="@+id/checkBox3"
+                android:layout_width="0dp"
+                android:layout_height="24dp"
+                android:layout_marginStart="125dp"
+                android:layout_marginTop="820dp"
+                android:layout_marginEnd="199dp"
+                android:text="2.5kg"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <CheckBox
+                android:id="@+id/checkBox4"
+                android:layout_width="57dp"
+                android:layout_height="27dp"
+                android:layout_marginStart="200dp"
+                android:layout_marginTop="820dp"
+                android:layout_marginEnd="199dp"
+                android:text="5kg"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="110dp"
+                android:layout_marginTop="860dp"
+                android:backgroundTint="@android:color/holo_green_dark"
+                android:text="ADD TO CART"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.982"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <CheckBox
+                android:id="@+id/cbHeart"
+                android:layout_width="74dp"
+                android:layout_height="72dp"
+                android:layout_marginStart="156dp"
+                android:layout_marginEnd="62dp"
+                android:button="@drawable/selector_wishlist_item"
+                android:text=""
+                app:layout_constraintEnd_toStartOf="@+id/button"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/checkBox4"
+                app:useMaterialThemeColors="false" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="920dp"
+                android:background="#727272"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+            </View>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="935dp"
+                android:layout_marginEnd="131dp"
+                android:text="SKU: TK0011"
+                android:textColor="@color/black"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="960dp"
+                android:layout_marginEnd="131dp"
+                android:text="Category: Pebbles"
+                android:textColor="@color/black"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="990dp"
+                android:background="#727272"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+            </View>
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="1010dp"
+                android:layout_marginEnd="131dp"
+                android:text="DESCRIPTION"
+                android:textColor="@android:color/holo_green_dark"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="80dp"
+                android:layout_marginTop="1040dp"
+                android:layout_marginEnd="317dp"
+                android:text="Premium Natural Pebbles"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="404dp"
+                android:layout_height="135dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="1080dp"
+                android:text="Pebbles are a great way to add visual and asthetic appeal to your garden and outdoor spaces. TruKisan’s diverse range of premium, high quality pebbles are ideal for any decorative purposes. Get your creative ideas and thoughts flowing with these amazing looking pebbles. Including these beautiful pebbles into your landscape design will surely make your garden stand out with an unmatched style and elegance."
+                android:textAlignment="viewStart"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="404dp"
+                android:layout_height="135dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="1210dp"
+                android:text="Pebbles are a great way to add visual and asthetic appeal to your garden and outdoor spaces. TruKisan’s diverse range of premium, high quality pebbles are ideal for any decorative purposes. Get your creative ideas and thoughts flowing with these amazing looking pebbles. Including these beautiful pebbles into your landscape design will surely make your garden stand out with an unmatched style and elegance."
+                android:textAlignment="viewStart"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="276dp"
+                android:layout_height="294dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="1330dp"
+                android:layout_marginEnd="7dp"
+                android:contentDescription=".."
+                app:layout_constraintEnd_toStartOf="@+id/button2"
+                app:layout_constraintStart_toEndOf="@+id/button1"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/tkb5" />
+
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="1656dp"
+                android:layout_marginEnd="317dp"
+                android:text="A Wide Range Of Applications"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.014"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="404dp"
+                android:layout_height="135dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="1700dp"
+                android:text="Our pebbles provide the perfect accents for plant pots, candles, flower vases, decorative floral arrangements, terrariums, fountains, aquariums, garden décor and more. They can also be used in craft and architectural projects. Their versatile and aesthetic nature makes them suitable for any indoor or outdoor decorative purposes."
+                android:textAlignment="viewStart"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <LinearLayout
+                android:id="@+id/linearLayout4"
+                android:layout_width="0dp"
+                android:layout_height="175dp"
+                android:layout_marginTop="1975dp"
+                android:orientation="horizontal"
+                android:padding="10dp"
+
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cs1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#F3F1EA">
+
+
+                        <ImageView
+                            android:id="@+id/ss3"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_centerHorizontal="true"
+                            android:background="@color/white"
+                            app:srcCompat="@drawable/ss3" />
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cs2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#F3F1EA">
+
+
+                        <ImageView
+                            android:id="@+id/ss4"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_alignParentTop="true"
+                            android:layout_marginTop="-1dp"
+                            android:background="@color/white"
+                            app:srcCompat="@drawable/ss4" />
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/linearLayout3"
+                android:layout_width="0dp"
+                android:layout_height="175dp"
+                android:layout_marginTop="1815dp"
+                android:orientation="horizontal"
+                android:padding="10dp"
+
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cs3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#F3F1EA">
+
+
+                        <ImageView
+                            android:id="@+id/ss1"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_centerHorizontal="true"
+                            android:background="@color/white"
+                            app:srcCompat="@drawable/ss1" />
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cs4"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#F3F1EA">
+
+
+                        <ImageView
+                            android:id="@+id/ss2"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_alignParentTop="true"
+                            android:layout_marginTop="-1dp"
+                            android:background="@color/white"
+                            app:srcCompat="@drawable/ss2" />
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayout5"
+                android:layout_width="0dp"
+                android:layout_height="175dp"
+                android:layout_marginTop="2135dp"
+                android:orientation="horizontal"
+                android:padding="10dp"
+
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cs5"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#F3F1EA">
+
+
+                        <ImageView
+                            android:id="@+id/ss5"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_centerHorizontal="true"
+                            android:background="@color/white"
+                            app:srcCompat="@drawable/ss5" />
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cs6"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#F3F1EA">
+
+
+                        <ImageView
+                            android:id="@+id/ss6"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_alignParentTop="true"
+                            android:layout_marginTop="-1dp"
+                            android:background="@color/white"
+                            app:srcCompat="@drawable/ss6" />
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="2320dp"
+                android:layout_marginEnd="317dp"
+                android:text="Decorate Your Personal Space"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.014"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="404dp"
+                android:layout_height="135dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="2365dp"
+                android:text="TruKisan’s amazing variety of polished/unpolished pebbles are definitely a great choice for adding a sophisticated, elegant look to your décor, whether you’re looking to redecorate a home or an office space. At TruKisan, we always strive to provide our customers with high quality, premium range of pebbles, hence catering to the needs and preferences of a diverse range of clientele."
+                android:textAlignment="viewStart"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="404dp"
+                android:layout_height="135dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="2490dp"
+                android:text="Pebbles can be used to decorate outdoor garden patios, garden corners, garden pathways, garden borders, miniature gardens, pavements, water bodies, water fountains, courtyard gardens, aquariums, artistic monuments, garden walks, indoor décor purposes, etc. They’re also perfect for flooring, shower floors and walls, pools, festive decorations, flower plant vases, terrariums and much more."
+                android:textAlignment="viewStart"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="276dp"
+                android:layout_height="294dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="2605dp"
+                android:layout_marginEnd="7dp"
+                android:contentDescription=".."
+                app:layout_constraintEnd_toStartOf="@+id/button2"
+                app:layout_constraintStart_toEndOf="@+id/button1"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/tkb6" />
+
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="48dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="197dp"
+                android:layout_marginTop="468dp"
+                android:layout_marginEnd="16dp"
+                android:backgroundTint="@color/white"
+                app:icon="@android:drawable/ic_menu_share"
+                app:iconTint="@color/black"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toEndOf="@+id/textView"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="2940dp"
+                android:layout_marginEnd="317dp"
+                android:text="Related Products"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.014"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+
+            <HorizontalScrollView
+                android:id="@+id/horizontalScrollView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3000dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/tkgreen"
+                        android:layout_width="150dp"
+                        android:layout_height="125dp"
+                        app:srcCompat="@drawable/tkgreen">
+
+                    </ImageView>
+
+                    <ImageView
+                        android:id="@+id/tkdark"
+                        android:layout_width="150dp"
+                        android:layout_height="125dp"
+                        app:srcCompat="@drawable/tkdark">
+
+                    </ImageView>
+
+                    <ImageView
+                        android:id="@+id/tkred"
+                        android:layout_width="150dp"
+                        android:layout_height="125dp"
+                        app:srcCompat="@drawable/tkred">
+
+                    </ImageView>
+
+                    <ImageView
+                        android:id="@+id/tkgold"
+                        android:layout_width="150dp"
+                        android:layout_height="125dp"
+                        app:srcCompat="@drawable/tkgold">
+
+                    </ImageView>
+
+                    <ImageView
+                        android:id="@+id/tklight"
+                        android:layout_width="150dp"
+                        android:layout_height="125dp"
+                        app:srcCompat="@drawable/tklight">
+
+                    </ImageView>
+
+                    <ImageView
+                        android:id="@+id/tkpink"
+                        android:layout_width="150dp"
+                        android:layout_height="125dp"
+                        app:srcCompat="@drawable/tkpink">
+
+                    </ImageView>
+
+                    <ImageView
+                        android:id="@+id/tkwhite"
+                        android:layout_width="150dp"
+                        android:layout_height="125dp"
+                        app:srcCompat="@drawable/tkwhite">
+
+                    </ImageView>
+
+                    <ImageView
+                        android:id="@+id/tkorange"
+                        android:layout_width="150dp"
+                        android:layout_height="125dp"
+                        app:srcCompat="@drawable/tkorange">
+
+                    </ImageView>
+
+
+
+
+                </LinearLayout>
+            </HorizontalScrollView>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</androidx.drawerlayout.widget.DrawerLayout>

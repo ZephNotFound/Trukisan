@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fillViewport="true"
+    tools:ignore="SpeakableTextPresentCheck">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context="com.pixelfly.trukisan.Services">
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:scaleX="2.5"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@drawable/services1" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="147dp"
+            android:layout_height="45dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center"
+            android:text="Services"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.035" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="95dp"
+            android:layout_height="24dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@drawable/trukisan1" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="150dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="105dp"
+            android:scaleY="1.32"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.938"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.117"
+            app:srcCompat="@drawable/garden1" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:fontFamily="sans-serif"
+            android:textSize="18sp"
+            android:text="TruKisan Garden Services"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.024"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.104" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="225dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:fontFamily="sans-serif"
+            android:text="TruKisan aims at providing premium landscape and garden services that follows a structured SOP involving landscaping architecture, garden design, landscape development, project execution, and finally landscape maintenance services. We mainly focus on providing best in class customer service and create a remarkable impression on your dream gardens. We always strive hard to deliver you with top notch designs and ensure on-time execution of the same."
+            android:textColor="@android:color/black"
+            android:textSize="11.5sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.033"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.156" />
+
+        <androidx.gridlayout.widget.GridLayout
+            android:id="@+id/gridLayout"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="220dp"
+            android:background="#FDF8E8"
+            app:columnCount="4"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.347"
+            app:rowCount="2">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="6dp"
+                android:elevation="8dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="15dp"
+                app:layout_column="0"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill"
+                app:layout_row="0"
+                app:layout_rowWeight="1"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/shovel" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="1dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Landscaping"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="6dp"
+                android:elevation="8dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="15dp"
+                app:layout_column="0"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill"
+                app:layout_row="1"
+                app:layout_rowWeight="1"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/terracegarden" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="1dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Home Gardens"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="6dp"
+                android:elevation="8dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="15dp"
+                app:layout_column="1"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill"
+                app:layout_row="0"
+                app:layout_rowWeight="1"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/verticalgarden" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="1dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Vertical Gardens"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="6dp"
+                android:elevation="8dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="15dp"
+                app:layout_column="1"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill"
+                app:layout_row="1"
+                app:layout_rowWeight="1"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/grass" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="1dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Grass&amp;Turf"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="6dp"
+                android:elevation="8dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="15dp"
+                app:layout_column="2"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill"
+                app:layout_row="0"
+                app:layout_rowWeight="1"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/gardenmaintainance" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="26.5dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="25dp"
+                    android:layout_marginBottom="1dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Garden Maintenance"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="6dp"
+                android:elevation="8dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="15dp"
+                app:layout_column="2"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill"
+                app:layout_row="1"
+                app:layout_rowWeight="1"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/hydroponics" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="1dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Hydroponics"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="6dp"
+                android:elevation="8dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="15dp"
+                app:layout_column="3"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill"
+                app:layout_row="0"
+                app:layout_rowWeight="1"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/stones" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="1dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Stones"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="6dp"
+                android:elevation="8dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="15dp"
+                app:layout_column="3"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill"
+                app:layout_row="1"
+                app:layout_rowWeight="1"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/irrigation" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="1dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Irrigation"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+
+        </androidx.gridlayout.widget.GridLayout>
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="50dp"
+            android:text="Services we offer"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.35" />
+
+        <Button
+            android:id="@+id/quote"
+            android:layout_width="200dp"
+            android:layout_height="35dp"
+            android:layout_marginBottom="205dp"
+            android:background="@drawable/round_btn"
+            android:backgroundTint="@color/trugreen"
+            android:textColor="@color/black"
+            android:text="Get Free Quote"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.901" />
+
+        <androidx.gridlayout.widget.GridLayout
+            android:id="@+id/gridLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="720dp"
+            android:layout_marginBottom="10dp"
+            android:background="#FDF8E8"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.985"
+            app:columnCount="4"
+            app:rowCount="1">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="6dp"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="8dp"
+                app:layout_row="0"
+                app:layout_rowWeight="1"
+                app:layout_column="0"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/group" />
+
+                <TextView
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="25dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Site Research"
+                    android:textAlignment="center"
+                    android:textColor="@android:color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/text2"
+                    android:layout_width="80dp"
+                    android:layout_height="90dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="45dp"
+                    android:fontFamily="sans-serif"
+                    android:padding="3dp"
+                    android:text="We ensure to conduct thorough research about the site’s geography, ecology, and history before we begin any of our project."
+                    android:textColor="@android:color/black"
+                    android:textSize="8.5sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="8dp"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="8dp"
+                app:layout_row="0"
+                app:layout_rowWeight="1"
+                app:layout_column="1"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/farmer" />
+
+                <TextView
+                    android:layout_width="70dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="22dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Quality Workmanship"
+                    android:textAlignment="center"
+                    android:textColor="@android:color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/text1"
+                    android:layout_width="80dp"
+                    android:layout_height="90dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="45dp"
+                    android:fontFamily="sans-serif"
+                    android:padding="3dp"
+                    android:text="We go the extra mile &amp; provide service &amp; quality that speaks for itself. Our work makes our customers coming for more."
+                    android:textColor="@android:color/black"
+                    android:textSize="8.5sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="8dp"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="8dp"
+                app:layout_row="0"
+                app:layout_rowWeight="1"
+                app:layout_column="2"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/medal" />
+
+                <TextView
+                    android:layout_width="70dp"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="23dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Highly Rated"
+                    android:textAlignment="center"
+                    android:textColor="@android:color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView7"
+                    android:layout_width="80dp"
+                    android:layout_height="90dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="45dp"
+                    android:fontFamily="sans-serif"
+                    android:padding="3dp"
+                    android:text="Our customers love us and we feel very proud of our own work when they spread our name to their friends and families."
+                    android:textColor="@android:color/black"
+                    android:textSize="8.5sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="6dp"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="8dp"
+                app:layout_row="0"
+                app:layout_rowWeight="1"
+                app:layout_column="3"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/customerfeedback" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="25dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Customer Satisfaction"
+                    android:textAlignment="center"
+                    android:textColor="@android:color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/text78"
+                    android:layout_width="80dp"
+                    android:layout_height="90dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="45dp"
+                    android:fontFamily="sans-serif"
+                    android:padding="3dp"
+                    android:text="We ensure the best quality results. Your project is complete only when you are satisfied. We will not be satisfied until you are!"
+                    android:textColor="@android:color/black"
+                    android:textSize="8.5sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+        </androidx.gridlayout.widget.GridLayout>
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="70dp"
+            android:text="Why Choose Us"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toTopOf="@+id/gridLayout2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/gridLayout" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
