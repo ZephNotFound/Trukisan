@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        tools:context="com.pixelfly.trukisan.AboutUs">
+
+
+        <ImageView
+            android:id="@+id/AboutUsImg"
+            android:layout_width="411dp"
+            android:layout_height="90dp"
+            android:scaleX="2"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@drawable/gardner" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="95dp"
+            android:layout_height="24dp"
+            app:layout_constraintBottom_toBottomOf="@+id/AboutUsImg"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.028"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@drawable/trukisan1" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text="About Us"
+            android:textColor="@android:color/white"
+            android:textSize="38sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.507"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.027" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text="A Little more About Us"
+            android:textColor="@android:color/black"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.025"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/AboutUsImg"
+            app:layout_constraintVertical_bias="0.019" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="280dp"
+            android:layout_height="205dp"
+            android:fontFamily="sans-serif"
+            android:text="Most of us being urban dwellers spend our days in closed residential spaces with limited access to parks and ecological reserves, have no way of feeling close to nature, and experience the benefits of being around plants and nature. Having beautiful gardens in our homes, offices or personal spaces adds an unparalleled aesthetic appeal to the surroundings. It also brightens our mood, makes us more productive, and purifies the air around us by absorbing all the toxins and impurities. "
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.068"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.226" />
+
+        <ImageView
+            android:id="@+id/Plant"
+            android:layout_width="100dp"
+            android:layout_height="200dp"
+            android:scaleX="2"
+            android:scaleY="2"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.970"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.312"
+            app:srcCompat="@drawable/plantremovebgpreview" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="280dp"
+            android:layout_height="255dp"
+            android:fontFamily="sans-serif"
+            android:text="A one-stop shop for all gardening, farming, and landscaping-related requirements, TruKisan has a wide range of products across various verticals, all available online for delivery across India, saving you precious time by avoiding numerous messy trips to various nurseries. We cater to all kinds of gardening, farming and landscaping need ranging from plants, pots, manures, tools, to curated plant-scaping and landscaping solutions. Our ever-growing platform integrates nurseries, farmlands, artisans, and customers across India. We are here to shape the future of gardening, farming and landscaping!"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.068"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView5"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:background="@drawable/round_btn"
+            android:backgroundTint="@color/trugreen"
+            android:textColor="@color/black"
+            android:text="View Store"
+            android:textSize="10sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.95"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/Plant"
+            app:layout_constraintVertical_bias="0.195"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <androidx.gridlayout.widget.GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_marginTop="700dp"
+            android:layout_marginBottom="10dp"
+            android:background="#F2F4D9"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.985"
+            app:columnCount="3"
+            app:rowCount="1">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="6dp"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="8dp"
+                app:layout_row="0"
+                app:layout_rowWeight="1"
+                app:layout_column="0"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/planetearth" />
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="35dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Mission"
+                    android:textAlignment="center"
+                    android:textColor="@android:color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/text2"
+                    android:layout_width="100dp"
+                    android:layout_height="105dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="35dp"
+                    android:fontFamily="sans-serif"
+                    android:padding="3dp"
+                    android:text="TruKisan is a visionary brand that aims to make all things green and natural, easily accessible to all. Our aim to shape the future of gardening, farming and landscaping."
+                    android:textColor="@android:color/black"
+                    android:textSize="9sp"
+                    android:textStyle="bold" />
+
+                <!--                <LinearLayout-->
+                <!--                    android:layout_width="50dp"-->
+                <!--                    android:layout_height="50dp"-->
+                <!--                    android:layout_gravity="center_vertical|center_horizontal"-->
+                <!--                    android:gravity="center"-->
+                <!--                    android:orientation="vertical">-->
+
+                <!--                </LinearLayout>-->
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="8dp"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="8dp"
+                app:layout_row="0"
+                app:layout_rowWeight="1"
+                app:layout_column="1"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/park" />
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:layout_height="17dp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="35dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Vision"
+                    android:textAlignment="center"
+                    android:textColor="@android:color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/text1"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="35dp"
+                    android:fontFamily="sans-serif"
+                    android:padding="3dp"
+                    android:text="We believe that every space can be made more beautiful with the right vision and touch. Come, join us in our vision to bring all spaces closest to nature."
+                    android:textColor="@android:color/black"
+                    android:textSize="9sp"
+                    android:textStyle="bold" />
+
+                <!--                <LinearLayout-->
+                <!--                    android:layout_width="wrap_content"-->
+                <!--                    android:layout_height="wrap_content"-->
+                <!--                    android:layout_gravity="center_vertical|center_horizontal"-->
+                <!--                    android:gravity="center"-->
+                <!--                    android:orientation="vertical">-->
+
+                <!--                </LinearLayout>-->
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="5dp"
+                android:layout_height="5dp"
+                android:layout_margin="8dp"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="8dp"
+                app:layout_row="0"
+                app:layout_rowWeight="1"
+                app:layout_column="2"
+                app:layout_columnWeight="1"
+                app:layout_gravity="fill">
+
+                <ImageView
+                    android:layout_width="34dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/group" />
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="35dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Values"
+                    android:textAlignment="center"
+                    android:textColor="@android:color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView7"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="35dp"
+                    android:fontFamily="sans-serif"
+                    android:padding="3dp"
+                    android:text="We attribute all of our success and good reputation to our hard working and talented staff who strive everyday to uphold our company values and ethos."
+                    android:textColor="@android:color/black"
+                    android:textSize="9sp"
+                    android:textStyle="bold" />
+
+                <!--                <LinearLayout-->
+                <!--                    android:layout_width="wrap_content"-->
+                <!--                    android:layout_height="wrap_content"-->
+                <!--                    android:layout_gravity="center_vertical|center_horizontal"-->
+                <!--                    android:gravity="center"-->
+                <!--                    android:orientation="vertical">-->
+
+                <!--                </LinearLayout>-->
+            </androidx.cardview.widget.CardView>
+        </androidx.gridlayout.widget.GridLayout>
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="159dp"
+            android:layout_height="28dp"
+            android:layout_marginTop="110dp"
+            android:layout_marginBottom="25dp"
+            android:gravity="center"
+            android:text="We Believe In"
+            android:textColor="@android:color/black"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.515"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.695" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

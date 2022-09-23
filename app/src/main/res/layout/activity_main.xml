@@ -35,6 +35,7 @@
         app:menu="@menu/menu"
         app:sideMargins="10dp"
         app:textColor="@color/white"
-        app:textSize="14sp" />
+        app:textSize="14sp"
+        tools:ignore="SpeakableTextPresentCheck" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
