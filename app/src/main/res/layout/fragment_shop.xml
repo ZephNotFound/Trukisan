@@ -5,26 +5,6 @@
     android:layout_height="match_parent"
     tools:context=".ShopFragment">
 
-    <androidx.appcompat.widget.Toolbar
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/toolbar"
-        android:background="@color/white"
-        android:elevation="0dp"
-        android:minHeight="?attr/actionBarSize">
 
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-
-            <ImageView
-                android:layout_width="150dp"
-                android:layout_height="50dp"
-                android:src="@drawable/actionbarLogo"
-                android:layout_centerVertical="true"
-                android:layout_centerHorizontal="true"/>
-
-        </RelativeLayout>
-    </androidx.appcompat.widget.Toolbar>
 
 </FrameLayout>

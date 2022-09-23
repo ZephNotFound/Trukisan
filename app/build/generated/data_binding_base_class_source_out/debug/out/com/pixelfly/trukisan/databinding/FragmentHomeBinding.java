@@ -5,9 +5,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
+import android.widget.ImageView;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.appcompat.widget.Toolbar;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.pixelfly.trukisan.R;
@@ -20,11 +21,16 @@ public final class FragmentHomeBinding implements ViewBinding {
   private final FrameLayout rootView;
 
   @NonNull
-  public final Toolbar toolbar;
+  public final ImageView imageView2;
 
-  private FragmentHomeBinding(@NonNull FrameLayout rootView, @NonNull Toolbar toolbar) {
+  @NonNull
+  public final TextView textView3;
+
+  private FragmentHomeBinding(@NonNull FrameLayout rootView, @NonNull ImageView imageView2,
+      @NonNull TextView textView3) {
     this.rootView = rootView;
-    this.toolbar = toolbar;
+    this.imageView2 = imageView2;
+    this.textView3 = textView3;
   }
 
   @Override
@@ -54,13 +60,19 @@ public final class FragmentHomeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.toolbar;
-      Toolbar toolbar = ViewBindings.findChildViewById(rootView, id);
-      if (toolbar == null) {
+      id = R.id.imageView2;
+      ImageView imageView2 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView2 == null) {
         break missingId;
       }
 
-      return new FragmentHomeBinding((FrameLayout) rootView, toolbar);
+      id = R.id.textView3;
+      TextView textView3 = ViewBindings.findChildViewById(rootView, id);
+      if (textView3 == null) {
+        break missingId;
+      }
+
+      return new FragmentHomeBinding((FrameLayout) rootView, imageView2, textView3);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
