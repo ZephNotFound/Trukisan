@@ -55,7 +55,7 @@
                     android:layout_width="170dp"
                     android:layout_height="170dp"
                     android:layout_margin="0dp"
-                    tools:srcCompat="@drawable/manures" />
+                    tools:srcCompat="@drawable/manure" />
 
             </androidx.cardview.widget.CardView>
 
@@ -71,7 +71,7 @@
                     android:layout_width="170dp"
                     android:layout_height="170dp"
                     android:layout_margin="0dp"
-                    tools:srcCompat="@drawable/pebbles" />
+                    tools:srcCompat="@drawable/pebbles_shop" />
 
             </androidx.cardview.widget.CardView>
 
@@ -93,7 +93,7 @@
                     android:layout_width="170dp"
                     android:layout_height="170dp"
                     android:layout_margin="0dp"
-                    tools:srcCompat="@drawable/plants" />
+                    tools:srcCompat="@drawable/plants_shop" />
 
             </androidx.cardview.widget.CardView>
 
@@ -109,7 +109,7 @@
                     android:layout_width="170dp"
                     android:layout_height="170dp"
                     android:layout_margin="0dp"
-                    tools:srcCompat="@drawable/seeds" />
+                    tools:srcCompat="@drawable/veg" />
 
             </androidx.cardview.widget.CardView>
         </TableRow>
