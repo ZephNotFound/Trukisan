@@ -4,11 +4,11 @@ package com.pixelfly.trukisan.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.pixelfly.trukisan.R;
@@ -18,7 +18,7 @@ import java.lang.String;
 
 public final class FragmentShopBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final FrameLayout rootView;
 
   @NonNull
   public final TextView TextView;
@@ -38,7 +38,7 @@ public final class FragmentShopBinding implements ViewBinding {
   @NonNull
   public final ImageView imageView6;
 
-  private FragmentShopBinding(@NonNull ConstraintLayout rootView, @NonNull TextView TextView,
+  private FragmentShopBinding(@NonNull FrameLayout rootView, @NonNull TextView TextView,
       @NonNull ImageView imageView2, @NonNull ImageView imageView3, @NonNull ImageView imageView4,
       @NonNull ImageView imageView5, @NonNull ImageView imageView6) {
     this.rootView = rootView;
@@ -52,7 +52,7 @@ public final class FragmentShopBinding implements ViewBinding {
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public FrameLayout getRoot() {
     return rootView;
   }
 
@@ -113,7 +113,7 @@ public final class FragmentShopBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentShopBinding((ConstraintLayout) rootView, TextView, imageView2, imageView3,
+      return new FragmentShopBinding((FrameLayout) rootView, TextView, imageView2, imageView3,
           imageView4, imageView5, imageView6);
     }
     String missingId = rootView.getResources().getResourceName(id);

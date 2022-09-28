@@ -1,6 +1,8 @@
 package com.pixelfly.trukisan
 
+import android.content.Intent
 import android.os.Bundle
+import android.view.View
 import android.widget.PopupMenu
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
@@ -21,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         navController = findNavController(R.id.main_fragment)
         //setupActionBarWithNavController(navController)
         setupSmoothBottomMenu()
+
     }
 
     private fun setupSmoothBottomMenu() {

@@ -16,7 +16,7 @@
     <string name="home">Home</string>
     <string name="homebgtext">Nature Just A Click Away!</string>
     <string name="shop">Shop</string>
-    <style name="Theme.Trukisan" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.Trukisan" parent="Theme.AppCompat.DayNight.NoActionBar">
         
         <item name="colorPrimary">@color/trugreen</item>
         <item name="colorPrimaryVariant">@color/trugreen</item>

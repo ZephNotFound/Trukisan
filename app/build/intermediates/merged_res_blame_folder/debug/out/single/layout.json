@@ -20,6 +20,10 @@
         "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\activity_main.xml"
     },
     {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-47:\\layout\\activity_shop.xml",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\activity_shop.xml"
+    },
+    {
         "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-47:\\layout\\activity_services.xml",
         "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\activity_services.xml"
     },
