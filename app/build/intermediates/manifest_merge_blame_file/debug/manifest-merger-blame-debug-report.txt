@@ -6,92 +6,104 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml
+8-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml
+9-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:6:5-29:19
+11-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:6:5-35:19
 12        android:allowBackup="true"
-12-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:7:9-35
+12-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:7:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.8.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\319818de8066db9dee1015fa48896948\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.8.0] C:\Users\shash\.gradle\caches\transforms-3\319818de8066db9dee1015fa48896948\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 14        android:dataExtractionRules="@xml/data_extraction_rules"
-14-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:8:9-65
+14-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:8:9-65
 15        android:debuggable="true"
 16        android:extractNativeLibs="false"
 17        android:fullBackupContent="@xml/backup_rules"
-17-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:9:9-54
+17-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:9:9-54
 18        android:icon="@mipmap/ic_launcher"
-18-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:10:9-43
+18-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:10:9-43
 19        android:label="@string/app_name"
-19-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:11:9-41
+19-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:11:9-41
 20        android:roundIcon="@mipmap/ic_launcher_round"
-20-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:12:9-54
+20-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:12:9-54
 21        android:supportsRtl="true"
-21-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:13:9-35
+21-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:13:9-35
 22        android:testOnly="true"
 23        android:theme="@style/Theme.Trukisan" >
-23-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:14:9-46
+23-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:14:9-46
 24        <activity
-24-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:16:9-24:20
-25            android:name="com.pixelfly.trukisan.SplashScreen"
-25-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:17:13-41
-26            android:exported="true" >
-26-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:18:13-36
-27            <intent-filter>
-27-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:19:13-23:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:20:17-69
-28-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:20:25-66
-29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:22:17-77
-30-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:22:27-74
-31            </intent-filter>
-32        </activity>
-33        <activity
-33-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:25:9-28:20
-34            android:name="com.pixelfly.trukisan.MainActivity"
-34-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:26:13-41
-35            android:exported="true" >
-35-->E:\Project\Trukisan\app\src\main\AndroidManifest.xml:27:13-36
-36        </activity>
-37
-38        <uses-library
-38-->[androidx.window:window:1.0.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\65e9cc4f1cd394591422496676b2102c\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-39            android:name="androidx.window.extensions"
-39-->[androidx.window:window:1.0.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\65e9cc4f1cd394591422496676b2102c\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-40            android:required="false" />
-40-->[androidx.window:window:1.0.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\65e9cc4f1cd394591422496676b2102c\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-41        <uses-library
-41-->[androidx.window:window:1.0.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\65e9cc4f1cd394591422496676b2102c\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-42            android:name="androidx.window.sidecar"
-42-->[androidx.window:window:1.0.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\65e9cc4f1cd394591422496676b2102c\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-43            android:required="false" />
-43-->[androidx.window:window:1.0.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\65e9cc4f1cd394591422496676b2102c\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-44
-45        <provider
-45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-46            android:name="androidx.startup.InitializationProvider"
-46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-47            android:authorities="com.pixelfly.trukisan.androidx-startup"
-47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-48            android:exported="false" >
-48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-49            <meta-data
-49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-51                android:value="androidx.startup" />
-51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-52            <meta-data
-52-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\a12ed9220754cce2dddf3ed6d58bf3a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-53-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\a12ed9220754cce2dddf3ed6d58bf3a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-54                android:value="androidx.startup" />
-54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\SRUJAN G V\.gradle\caches\transforms-3\a12ed9220754cce2dddf3ed6d58bf3a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-55        </provider>
-56    </application>
-57
-58</manifest>
+24-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:16:9-22:20
+25            android:name="com.pixelfly.trukisan.manure"
+25-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:17:13-35
+26            android:exported="false" >
+26-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:18:13-37
+27            <meta-data
+27-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:19:13-21:36
+28                android:name="android.app.lib_name"
+28-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:20:17-52
+29                android:value="" />
+29-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:21:17-33
+30        </activity>
+31        <activity
+31-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:23:9-31:20
+32            android:name="com.pixelfly.trukisan.SplashScreen"
+32-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:24:13-41
+33            android:exported="true" >
+33-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:25:13-36
+34            <intent-filter>
+34-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:26:13-30:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:27:17-69
+35-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:27:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:29:17-77
+37-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:29:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:32:9-34:48
+41            android:name="com.pixelfly.trukisan.MainActivity"
+41-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:33:13-41
+42            android:exported="true" />
+42-->C:\Users\shash\StudioProjects\Trukisan\app\src\main\AndroidManifest.xml:34:13-36
+43
+44        <uses-library
+44-->[androidx.window:window:1.0.0] C:\Users\shash\.gradle\caches\transforms-3\65e9cc4f1cd394591422496676b2102c\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+45            android:name="androidx.window.extensions"
+45-->[androidx.window:window:1.0.0] C:\Users\shash\.gradle\caches\transforms-3\65e9cc4f1cd394591422496676b2102c\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+46            android:required="false" />
+46-->[androidx.window:window:1.0.0] C:\Users\shash\.gradle\caches\transforms-3\65e9cc4f1cd394591422496676b2102c\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+47        <uses-library
+47-->[androidx.window:window:1.0.0] C:\Users\shash\.gradle\caches\transforms-3\65e9cc4f1cd394591422496676b2102c\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+48            android:name="androidx.window.sidecar"
+48-->[androidx.window:window:1.0.0] C:\Users\shash\.gradle\caches\transforms-3\65e9cc4f1cd394591422496676b2102c\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+49            android:required="false" />
+49-->[androidx.window:window:1.0.0] C:\Users\shash\.gradle\caches\transforms-3\65e9cc4f1cd394591422496676b2102c\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+50
+51        <provider
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\shash\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+52            android:name="androidx.startup.InitializationProvider"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\shash\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+53            android:authorities="com.pixelfly.trukisan.androidx-startup"
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\shash\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+54            android:exported="false" >
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\shash\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+55            <meta-data
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\shash\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\shash\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+57                android:value="androidx.startup" />
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\shash\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+58            <meta-data
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\shash\.gradle\caches\transforms-3\a12ed9220754cce2dddf3ed6d58bf3a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\shash\.gradle\caches\transforms-3\a12ed9220754cce2dddf3ed6d58bf3a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+60                android:value="androidx.startup" />
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\shash\.gradle\caches\transforms-3\a12ed9220754cce2dddf3ed6d58bf3a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+61        </provider>
+62    </application>
+63
+64</manifest>

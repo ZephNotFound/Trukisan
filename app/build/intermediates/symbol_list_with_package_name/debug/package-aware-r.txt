@@ -119,6 +119,7 @@ attr alertDialogButtonGroupStyle
 attr alertDialogCenterButtons
 attr alertDialogStyle
 attr alertDialogTheme
+attr alignmentMode
 attr allowStacking
 attr alpha
 attr alphabeticModifiers
@@ -336,6 +337,8 @@ attr colorSurfaceVariant
 attr colorSwitchThumbNormal
 attr colorTertiary
 attr colorTertiaryContainer
+attr columnCount
+attr columnOrderPreserved
 attr commitIcon
 attr constraintRotate
 attr constraintSet
@@ -650,6 +653,9 @@ attr layout_anchorGravity
 attr layout_behavior
 attr layout_collapseMode
 attr layout_collapseParallaxMultiplier
+attr layout_column
+attr layout_columnSpan
+attr layout_columnWeight
 attr layout_constrainedHeight
 attr layout_constrainedWidth
 attr layout_constraintBaseline_creator
@@ -706,10 +712,14 @@ attr layout_goneMarginLeft
 attr layout_goneMarginRight
 attr layout_goneMarginStart
 attr layout_goneMarginTop
+attr layout_gravity
 attr layout_insetEdge
 attr layout_keyline
 attr layout_marginBaseline
 attr layout_optimizationLevel
+attr layout_row
+attr layout_rowSpan
+attr layout_rowWeight
 attr layout_scrollEffect
 attr layout_scrollFlags
 attr layout_scrollInterpolator
@@ -873,6 +883,7 @@ attr onPositiveCross
 attr onShow
 attr onStateTransition
 attr onTouchUp
+attr orientation
 attr overlapAnchor
 attr overlay
 attr paddingBottomNoButtons
@@ -949,6 +960,8 @@ attr rotationCenterId
 attr round
 attr roundPercent
 attr route
+attr rowCount
+attr rowOrderPreserved
 attr saturation
 attr scaleFromTextSize
 attr scrimAnimationDuration
@@ -1212,6 +1225,7 @@ attr ttcIndex
 attr upDuration
 attr uri
 attr useCompatPadding
+attr useDefaultMargins
 attr useMaterialThemeColors
 attr values
 attr verticalOffset
@@ -1947,6 +1961,7 @@ dimen compat_notification_large_icon_max_height
 dimen compat_notification_large_icon_max_width
 dimen def_drawer_elevation
 dimen default_dimension
+dimen default_gap
 dimen design_appbar_elevation
 dimen design_bottom_navigation_active_item_max_width
 dimen design_bottom_navigation_active_item_min_width
@@ -2519,7 +2534,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
-drawable actionbarlogo
+drawable actionbar_logo
 drawable avd_hide_password
 drawable avd_show_password
 drawable btn_checkbox_checked_mtrl
@@ -2530,13 +2545,24 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable chicken_manure
+drawable cow_manure
+drawable customerfeedback
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable farmer
+drawable garden1
+drawable gardenmaintainance
+drawable gardner
+drawable grass
+drawable group
 drawable homebg
 drawable homebg1
+drawable hydroponics
+drawable ic_baseline_format_underlined_24
 drawable ic_baseline_home_24
 drawable ic_baseline_person_24
 drawable ic_baseline_shop
@@ -2552,6 +2578,8 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable irrigation
+drawable line
 drawable logo
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
@@ -2561,6 +2589,8 @@ drawable m3_tabs_background
 drawable m3_tabs_line_indicator
 drawable m3_tabs_rounded_line_indicator
 drawable m3_tabs_transparent_background
+drawable manure
+drawable manure_banner
 drawable manures
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
@@ -2572,6 +2602,7 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+drawable medal
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -2595,22 +2626,43 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable park
 drawable pebbles
+drawable pebbles_shop
+drawable planetearth
+drawable plant
+drawable plantremovebgpreview
 drawable plants
+drawable plants_shop
+drawable potting_mix
+drawable round_btn
 drawable seeds
 drawable services
+drawable services1
+drawable sheep_manure
+drawable shop_banner
+drawable shovel
+drawable stones
+drawable terracegarden
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable trukisan
+drawable trukisan1
 drawable turfs
+drawable veg
+drawable vermicompost
+drawable verticalgarden
 id ALT
+id AboutUsImg
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
 id FUNCTION
 id META
 id NO_DEBUG
+id Plant
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -2618,6 +2670,7 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
+id TextView
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -2678,6 +2731,8 @@ id actions
 id activity_chooser_view_content
 id add
 id alertTitle
+id alignBounds
+id alignMargins
 id aligned
 id all
 id allStates
@@ -2709,6 +2764,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id button
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2821,6 +2877,8 @@ id ghost_view_holder
 id gone
 id graph
 id graph_wrap
+id gridLayout
+id gridLayout2
 id group_divider
 id grouping
 id groups
@@ -2831,6 +2889,7 @@ id hideable
 id home
 id homeAsUp
 id honorRequest
+id horizontal
 id horizontal_only
 id icon
 id icon_group
@@ -2840,6 +2899,11 @@ id ignoreRequest
 id image
 id imageView
 id imageView2
+id imageView3
+id imageView4
+id imageView5
+id imageView6
+id imageView7
 id immediateStop
 id included
 id info
@@ -2863,6 +2927,7 @@ id locale
 id lottie_layer_name
 id ltr
 id main_fragment
+id manureText
 id masked
 id match_constraint
 id match_parent
@@ -2963,6 +3028,7 @@ id position
 id postLayout
 id progress_circular
 id progress_horizontal
+id quote
 id radio
 id ratio
 id rectangles
@@ -3060,13 +3126,25 @@ id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
 id test_radiobutton_app_button_tint
 id text
+id text1
 id text2
+id text78
 id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textView11
+id textView12
+id textView13
 id textView3
+id textView4
+id textView5
+id textView6
+id textView7
+id textView8
+id textView9
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3100,6 +3178,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id vertical
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -3211,7 +3290,10 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_about_us
 layout activity_main
+layout activity_manure
+layout activity_services
 layout activity_splash_screen
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -4563,6 +4645,8 @@ styleable FragmentContainerView android_name android_tag
 styleable FragmentNavigator android_name
 styleable GradientColor android_startColor android_endColor android_type android_centerX android_centerY android_gradientRadius android_tileMode android_centerColor android_startX android_startY android_endX android_endY
 styleable GradientColorItem android_color android_offset
+styleable GridLayout alignmentMode columnCount columnOrderPreserved orientation rowCount rowOrderPreserved useDefaultMargins
+styleable GridLayout_Layout android_layout_width android_layout_height android_layout_margin android_layout_marginLeft android_layout_marginTop android_layout_marginRight android_layout_marginBottom layout_column layout_columnSpan layout_columnWeight layout_gravity layout_row layout_rowSpan layout_rowWeight
 styleable ImageFilterView altSrc blendSrc brightness contrast crossfade imagePanX imagePanY imageRotate imageZoom overlay round roundPercent saturation warmth
 styleable Insets marginLeftSystemWindowInsets marginRightSystemWindowInsets marginTopSystemWindowInsets paddingBottomSystemWindowInsets paddingLeftSystemWindowInsets paddingRightSystemWindowInsets paddingTopSystemWindowInsets
 styleable KeyAttribute android_alpha android_transformPivotX android_transformPivotY android_translationX android_translationY android_scaleX android_scaleY android_rotation android_rotationX android_rotationY android_translationZ android_elevation curveFit framePosition motionProgress motionTarget transformPivotTarget transitionEasing transitionPathRotate

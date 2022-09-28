@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.pixelfly.trukisan.app-mergeDebugResources-45:/values-w480dp-port-v13/values-w480dp-port-v13.xml",
+            "outputFile": "com.pixelfly.trukisan.app-mergeDebugResources-46:/values-w480dp-port-v13/values-w480dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\SRUJAN G V\\.gradle\\caches\\transforms-3\\9d6778b007a14e0c6659deb3da7018f2\\transformed\\material-1.6.1\\res\\values-w480dp-port-v13\\values-w480dp-port-v13.xml",
+                    "source": "C:\\Users\\shash\\.gradle\\caches\\transforms-3\\9d6778b007a14e0c6659deb3da7018f2\\transformed\\material-1.6.1\\res\\values-w480dp-port-v13\\values-w480dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

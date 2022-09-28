@@ -71,7 +71,7 @@
                                 android:layout_height="match_parent"
                                 android:paddingTop="20dp"
                                 android:scaleType="fitXY"
-                                android:src="@drawable/pebbles" />
+                                android:src="@drawable/pebbles_shop" />
 
                         </LinearLayout>
                     </androidx.cardview.widget.CardView>
@@ -117,7 +117,7 @@
                                 android:layout_height="match_parent"
                                 android:paddingTop="20dp"
                                 android:scaleType="fitXY"
-                                android:src="@drawable/plants" />
+                                android:src="@drawable/plants_shop" />
 
                         </LinearLayout>
                     </androidx.cardview.widget.CardView>

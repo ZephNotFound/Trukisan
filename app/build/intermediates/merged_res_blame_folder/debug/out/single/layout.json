@@ -1,26 +1,38 @@
 [
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-46:\\layout\\fragment_account.xml",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\layout\\fragment_account.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-47:\\layout\\fragment_account.xml",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\fragment_account.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-46:\\layout\\activity_splash_screen.xml",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-47:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-46:\\layout\\fragment_shop.xml",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\layout\\fragment_shop.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-47:\\layout\\activity_about_us.xml",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\activity_about_us.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-46:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-47:\\layout\\fragment_shop.xml",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\fragment_shop.xml"
     },
     {
-        "merged": "com.pixelfly.trukisan.app-mergeDebugResources-46:/layout/fragment_home.xml",
-        "source": "com.pixelfly.trukisan.app-main-49:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-47:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-46:\\layout\\fragment_home.xml",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-47:\\layout\\activity_services.xml",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\activity_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-47:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.pixelfly.trukisan.app-mergeDebugResources-47:/layout/fragment_shop.xml",
+        "source": "com.pixelfly.trukisan.app-main-50:/layout/fragment_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-mergeDebugResources-47:\\layout\\activity_manure.xml",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\activity_manure.xml"
     }
 ]

@@ -1,162 +1,310 @@
 [
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\raw_splash.json.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\raw\\splash.json"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_manures.PNG.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\manures.PNG"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_terracegarden.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\terracegarden.png"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable-v24_pebbles.PNG.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable-v24\\pebbles.PNG"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_seeds.PNG.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\seeds.PNG"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable_ic_baseline_shopping_cart_24.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable\\ic_baseline_shopping_cart_24.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_manure_banner.jpg.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\manure_banner.jpg"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable-v24_homebg.jpg.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable-v24\\homebg.jpg"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_trukisan1.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\trukisan1.png"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable-v24_actionbarlogo.png.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable-v24\\actionbarlogo.png"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_services.PNG.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\services.PNG"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_potting_mix.jpg.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\potting_mix.jpg"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable-v24_services.PNG.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable-v24\\services.PNG"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\logo.png"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable-v24_turfs.PNG.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable-v24\\turfs.PNG"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\layout_activity_services.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\activity_services.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable-v24_seeds.PNG.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable-v24\\seeds.PNG"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_garden1.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\garden1.png"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable-v24_homebg1.png.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable-v24\\homebg1.png"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_irrigation.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\irrigation.png"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable-v24_homebg.png.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable-v24\\homebg.png"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable_ic_baseline_home_24.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable\\ic_baseline_home_24.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_medal.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\medal.png"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\layout_fragment_shop.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\layout\\fragment_shop.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_group.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\group.png"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_customerfeedback.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\customerfeedback.png"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_plantremovebgpreview.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\plantremovebgpreview.png"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_gardenmaintainance.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\gardenmaintainance.png"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\navigation\\nav_graph.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_shop_banner.jpg.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\shop_banner.jpg"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable-v24_manures.PNG.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable-v24\\manures.PNG"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_homebg.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\homebg.png"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\layout_activity_splash_screen.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_manure.jpg.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\manure.jpg"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable-v24_plants.PNG.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable-v24\\plants.PNG"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable-v24_logo.png.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable-v24\\logo.png"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_vermicompost.jpg.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\vermicompost.jpg"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_ic_baseline_shop.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\ic_baseline_shop.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\menu_menu.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\menu\\menu.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_plants.PNG.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\plants.PNG"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable_ic_baseline_person_24.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable\\ic_baseline_person_24.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_trukisan.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\trukisan.png"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable_ic_baseline_shop.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\drawable\\ic_baseline_shop.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-pngs-43:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_plants_shop.jpg.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\plants_shop.jpg"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\menu\\menu.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-pngs-42:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\ic_baseline_person_24.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_gardner.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\gardner.png"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\layout_activity_manure.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\activity_manure.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\layout_fragment_account.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\layout\\fragment_account.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\layout_fragment_shop.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\fragment_shop.xml"
     },
     {
-        "merged": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-47:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\SRUJAN G V\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-49:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "com.pixelfly.trukisan.app-merged_res-47:/layout_fragment_home.xml.flat",
-        "source": "com.pixelfly.trukisan.app-main-49:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_round_btn.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\round_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_pebbles.PNG.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\pebbles.PNG"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_actionbar_logo.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\actionbar_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_turfs.PNG.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\turfs.PNG"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_ic_baseline_format_underlined_24.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\ic_baseline_format_underlined_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_verticalgarden.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\verticalgarden.png"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_grass.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\grass.png"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_veg.jpg.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\veg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_planetearth.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\planetearth.png"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_sheep_manure.jpg.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\sheep_manure.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_stones.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\stones.png"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pixelfly.trukisan.app-merged_res-48:/layout_fragment_shop.xml.flat",
+        "source": "com.pixelfly.trukisan.app-main-50:/layout/fragment_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_line.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_farmer.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\farmer.png"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_plant.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\plant.png"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_park.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\park.png"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_ic_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\ic_baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_homebg1.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\homebg1.png"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_pebbles_shop.jpg.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\pebbles_shop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_cow_manure.jpg.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\cow_manure.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\raw_splash.json.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\raw\\splash.json"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_services1.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\services1.png"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_hydroponics.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\hydroponics.png"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable-v24_chicken_manure.jpg.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable-v24\\chicken_manure.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_shovel.png.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\shovel.png"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\7.3.3\\com.pixelfly.trukisan.app-main-50:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     }
 ]
