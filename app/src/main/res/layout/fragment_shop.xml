@@ -57,7 +57,7 @@
             app:layout_column="0">
 
             <ImageView
-                android:id="@+id/imageView3"
+                android:id="@+id/pebbles"
                 android:layout_width="170dp"
                 android:layout_height="170dp"
                 android:layout_margin="0dp"
@@ -115,6 +115,7 @@
 
         </androidx.cardview.widget.CardView>
     </androidx.gridlayout.widget.GridLayout>
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 
